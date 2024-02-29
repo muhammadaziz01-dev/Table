@@ -1,0 +1,1 @@
+Brinchi papcamizda np kutubhonasi yordamida o'zimiz uchun kichik bir server malumortlar bazasini yasab olganmiz va ikkinchi papkamizda shu yaratilgan serverdagi , bazadagi malumotlarni olishlik , qo'shishlik va o'chirishlik , o'zgartirishliklarni ko'rib chiqanmiz
