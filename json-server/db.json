@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "muhammadaziz",
+      "age": "21",
+      "email": "akbarovmuhammadaziz050@mail.ru",
+      "id": "e6df"
+    },
+    {
+      "id": "2729",
+      "name": "muhammadaziz",
+      "age": "33",
+      "email": "aziz@mail.com"
+    },
+    {
+      "name": "Muhammadaziz",
+      "age": "44",
+      "email": "muhammadaziz@gmail.com",
+      "id": "7c2e"
+    },
+    {
+      "name": "Abdulloh",
+      "age": "19",
+      "email": "abdulloh@gmail.com",
+      "id": "f9b5"
+    }
+  ]
+}
